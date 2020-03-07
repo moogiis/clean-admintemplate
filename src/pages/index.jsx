@@ -8,10 +8,11 @@ const Home = () => (
     </Head>
     <main>
       <h1 className="title">Welcome to Clean</h1>
+      <Button>aaa</Button>
 
+      <div className="margin-container">a</div>
       <p className="description">Admin template - with Nextjs, Antd</p>
     </main>
-
     <footer>
       <a
         href="https://zeit.co?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
